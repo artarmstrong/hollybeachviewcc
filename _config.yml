@@ -1,5 +1,5 @@
 title: Holly Beach View Community Club
-description: Check all upcoming events and information
+description: Events and Information
 github:
-  is_project_page: "false"
+  is_project_page: false
 theme: jekyll-theme-cayman
